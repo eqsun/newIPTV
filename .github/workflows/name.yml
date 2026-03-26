@@ -14,6 +14,7 @@ jobs:
       URLS: |
         http://epg.51zmt.top:8000/e1.xml
         https://epg.zsdc.eu.org/t.xml
+        https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz
         https://epg.pw/xmltv/epg_CN.xml
         https://epg.pw/xmltv/epg_HK.xml
         https://epg.pw/xmltv/epg_TW.xml
@@ -24,10 +25,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
 
-      - name: 安装繁简转换工具 opencc
+      - name: 安装工具
         run: |
           sudo apt-get update
-          sudo apt-get install -y opencc
+          sudo apt-get install -y opencc gzip
 
       - name: Parse URLs
         id: parse-urls
@@ -59,13 +60,21 @@ jobs:
             fi
           done < urls.txt
 
-      - name: 提取 display-name 标签内容 + 繁体转简体
+      - name: 自动解压 .gz + 提取 display-name + 繁转简
         run: |
           > temp_all.txt
           
           for xmlfile in xml_files/file_*.xml; do
             if [ -f "$xmlfile" ] && [[ ! -f "${xmlfile}.failed" ]]; then
               echo "处理文件: $xmlfile"
+              
+              # 自动判断是否 gz 并解压
+              if file -b "$xmlfile" | grep -q "gzip"; then
+                gunzip -c "$xmlfile" > "${xmlfile}.tmp"
+                xmlfile="${xmlfile}.tmp"
+              fi
+              
+              # 提取频道名
               grep -oP '<display-name[^>]*>\K[^<]+' "$xmlfile" | sed '/^$/d' >> temp_all.txt
             fi
           done
