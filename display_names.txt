@@ -1,4 +1,3 @@
-1905环球经典
 4K健身
 4K宝贝
 4K少儿专区
@@ -11,20 +10,26 @@
 4K美食
 4K视界专区
 ABC Australia
+ABCAustralia
+AMC
 ARIRANG阿里郎频道
 AXN
 Action Hollywod Movies
 Animax
 Arirang TV
 Arirang TV HD
+ArirangTV
 Astro Cricket
+BBC
 BBC Earth
 BBC Earth HD
 BBC Lifestyle
 BBC Lifestyle HD
 BBC NEWS HD
 BBC News
-BRTV体育休闲
+BBCEarth
+BBCLifestyle
+BBCWorldNews
 BRTV卡酷少儿
 BTV体育
 BTV影视
@@ -35,6 +40,8 @@ BTV财经
 Bloomberg
 Bloomberg TV
 Bloomberg Television
+BloombergTV
+BlueAntEntertainment
 C
 CARTOONITO
 CARTOONITO HD
@@ -43,13 +50,8 @@ CBeebies
 CCTV-1
 CCTV-1 综合
 CCTV-10 科教
-CCTV-11 戏曲
-CCTV-12 社会与法
 CCTV-13 新闻
-CCTV-14 少儿
-CCTV-15 音乐
 CCTV-16奥林匹克
-CCTV-17农业农村
 CCTV-2 财经
 CCTV-3 综艺
 CCTV-4
@@ -59,9 +61,7 @@ CCTV-4 (美洲)
 CCTV-5 体育
 CCTV-5+ 体育赛事
 CCTV-6 电影
-CCTV-7 国防军事
 CCTV-8 电视剧
-CCTV-8K
 CCTV-9 纪录
 CCTV1
 CCTV10
@@ -91,9 +91,6 @@ CCTV8K
 CCTV9
 CCTVNews
 CCTV娱乐
-CCTV怀旧剧场
-CCTV第一剧场
-CCTV风云剧场
 CDTV1
 CDTV2
 CDTV3
@@ -108,6 +105,7 @@ CETV4
 CGTN
 CGTN (中国环球电视网)英语频道
 CGTN (中国环球电视网)记录频道
+CGTNDocumentary
 CGTN俄语
 CGTN法语
 CGTN纪录
@@ -120,6 +118,7 @@ CHC家庭影院
 CHC家庭电影
 CHC影迷电影
 CHC高清电影
+CI
 CI 罪案侦查频道
 CINEMAX
 CINEMAX热门影院
@@ -130,16 +129,20 @@ CMusic
 CNBC
 CNBC Asia
 CNBC Asia 财经台
+CNBCHongKong
 CNC中文
 CNC英文
 CNN
 CNN 国际新闻网络
 CNNI HD
+CN卡通频道
 COLORS
 Cartoon Network
 CatchPlay HD
+CatchPlay电影
 Cbeebies HD
 Channel NewsAsia
+ChannelNewsAsia
 Channel[V]
 CinemaWorld
 CinemaWorld HD
@@ -151,8 +154,6 @@ DAZN 3
 DMAX
 DMAX HD
 DMAX频道
-DONGFANG1
-DOX4K
 DREAMWORKS
 DTV
 DW
@@ -164,27 +165,35 @@ Discovery Asia
 Discovery Asia HD
 Discovery Channel
 Discovery 科学频道
+DiscoveryAsia
+Discovery科学
 Discovery科学HD
 Discovery科学频道
 DocsVille
 DreamWorks 梦工厂动画
+ELTV
 ELTV生活英语台
 ETtoday综合台
+EUROSPORT
 EUROSPORT HD
 EVE
 EVE HD
 EYE TV戏剧台HD
 EYE TV旅游台HD
+EYE戏剧
+EYE旅游
+Ettoday
 Euronews
 FRANCE24 英文台
 FRANCE24E HD
 FRANCE24F
-FZTV1
 Fashion TV HD
 FashionBox
+FashionTV
 FashionTV 时尚频道
 Food Network
 Food Network 美食台HD
+FoodNetwork美食台
 France 24
 France 24 (French)
 Fun探索娱乐台 4K
@@ -196,6 +205,8 @@ Global Trekker
 Global Trekker HD
 Global Trekker 探索世界
 Globetrotter
+GoodTV
+GoodTV2
 HBO
 HBO Family
 HBO HD
@@ -205,6 +216,10 @@ HBO 原创巨献
 HBO 强档巨献
 HBO 温馨家庭
 HBO-Hits
+HBOFamily
+HBOHD
+HBOHits
+HBOSignature
 HBO原创巨献
 HBO强档巨献
 HBO温馨家庭
@@ -216,17 +231,15 @@ HITS HD
 HITS MOVIES
 HITS频道
 HKS
-HNXTTV1
 HOY76
 HOY77
 HOY78
-HRBTV1
-HZTV1
-HZTV2
 Happy
+History
 History 历史频道
 Hot
 INULTRA
+J2
 JET综合台
 JStar极限台电影频道
 K 频道
@@ -236,9 +249,10 @@ KLT-靖天国际台
 KLT-靖天国际台HD
 LOVE NATURE 4K
 LS Time电影台
-LSTIME电影台
+LSTime电影台
 LUXE TV Channel
 LUXE TV HD
+LUXETV
 Lifetime
 Lifetime HD
 Lifetime 娱乐频道
@@ -247,6 +261,7 @@ Love Nature
 Love Nature 4K
 Love Nature HD
 MCE 我的欧洲电影台
+MEZZOLIVEHD
 MOMO 1台
 MOMO 2台
 MOMO亲子台
@@ -255,6 +270,7 @@ MOOV 演唱会/MV台
 MOVIE MOVIE
 MTV
 MTV India
+MTV综合
 MTV综合台HD
 MagellanTV频道 (麦哲伦频道)
 Medici-arts HD
@@ -262,11 +278,14 @@ Mezzo Live
 Mezzo Live HD
 Moonbug
 My Cinema Europe HD 我的欧洲电影
+MyCinemaEurope
 NBA TV
 NHK
 NHK WORLD-JAPAN
 NHK World Premium
 NHK World-Japan
+NHKWorld
+NHKWorldPremium
 NHK新闻资讯台HD
 NOW 70s
 NOW 80s
@@ -278,6 +297,7 @@ Nice TV 靖天欢乐台
 Nick Jr
 Nick Jr.
 Nick Jr. 儿童频道
+NickJr.
 Nickelodeon
 Now Golf 2
 Now Golf 3
@@ -317,12 +337,12 @@ Now爆谷星影台
 Now直播台
 Now财经台
 OUTtv HD
+Outdoor
 PET CLUB TV HD
 PULSE Documentaries
 Pet Club TV
 PopC
 Premier Sports
-QHTV1
 ROCK Action
 ROCK Action HD
 ROCK ENTERTAINMENT
@@ -339,7 +359,6 @@ RTHK34
 RTHK35
 Rialto Classic Movies (RCM)
 SBN全球财经台
-SCTV1
 SCTV2
 SCTV3
 SCTV4
@@ -347,6 +366,7 @@ SCTV5
 SCTV7
 SCTV8
 SCTV科教
+SMART知识频道
 STAR PLUS
 SUPER EYT
 SUPER FREE
@@ -361,6 +381,7 @@ SUPER识食
 SUPER话当年 (免费)
 SUPER金曲
 Sky News
+SkyNews
 Smart 知识HD
 Sony MAX
 Sony SAB
@@ -375,10 +396,12 @@ TRACE Sport Stars
 TRACE Sport Stars HD
 TRACE Urban
 TRACE Urban HD
+TRACEUrban
 TV5MONDE
 TV5MONDE ASIE
 TV5MONDE STYLE HD 生活时尚
 TV5MONDE Style
+TV5Monde
 TVB J2
 TVB Pearl
 TVB Plus
@@ -387,26 +410,30 @@ TVB 翡翠台
 TVBS
 TVBS 新闻台
 TVBS新闻
+TVBS新闻台
 TVBS欢乐台
 TVBS精采台
 TVBS精采台HD
 TVB星河
+TVB经典台
 TaiwanPlus
 Thrill
+TraceSports
 Travel Channel HD
+TravelChannel
 ViVa1台
 Viu 频道
 ViuTV
 ViuTVsix
 Warner TV
 Warner TV HD
-ZHTV-1
-ZHTV-2
+WarnerTV
 Zee Cinema International
 Zee News
 Zee TV
 ZooMoo
 Z频道
+aljazeera
 amc电影台
 beIN SPORTS 1
 beIN SPORTS 2
@@ -414,8 +441,12 @@ beIN SPORTS 3
 beIN SPORTS 4
 beIN SPORTS 5
 beIN SPORTS 6
+cinemaworld
+cnex
 euronews
+france24
 fun探索娱乐台
+globaltrekker
 iHOT爱体育
 iHOT爱历史
 iHOT爱喜剧
@@ -439,12 +470,15 @@ myTV SUPER直播足球5台
 myTV SUPER直播足球6台
 myTV SUPER直播足球7台
 noepg
+now财经台
+rollor
 tvN
 tvN HD
 wedotv Movies HD
 三圣电视台
 三沙卫视
 三立台湾台
+三立戏剧
 三立戏剧台HD
 三立新闻iNEWS
 三立新闻台
@@ -453,16 +487,9 @@ wedotv Movies HD
 三立财经新闻台
 三立财经新闻台HD
 三立都会台
-上海
 上海教育
-上海教育台
 上海新闻综合
-上海星尚
-上海第一财经
-上海纪实人文
-上海艺术人文
 上海都市
-上视东方影视
 上视新闻频道
 世界地理
 东北热剧
@@ -470,7 +497,6 @@ wedotv Movies HD
 东方卫视
 东方卫视国际频道
 东方影视
-东方电影
 东方财经
 东森幼幼台
 东森戏剧台
@@ -494,8 +520,6 @@ wedotv Movies HD
 东森购物二台
 东森购物四台
 东森超视
-东莞新闻
-东莞生活资讯
 东风卫视
 中华特产
 中台湾生活网频道
@@ -510,34 +534,30 @@ wedotv Movies HD
 中国教育2台
 中国教育3台
 中国教育4台
-中国教育一套
 中国环球电视网
 中国电影频道
 中天亚洲台
 中天娱乐台
 中天新闻台
 中天综合台
-中央台–珠江
 中央电视台新闻频道
 中央电视台综合频道 (港澳版)
 中学生
-中山公共
-中山综合
 中视
 中视HD
 中视新闻
 中视新闻HD
 中视新闻台
+中视经典
 中视经典台HD
+中视菁采台
 中视菁采台HD
 之江纪录
-乌鲁木齐都市
 乐活频道
 乐游
 乐视台
 书画
 书画频道
-云上电影院
 云南卫视
 云南娱乐
 云南少儿
@@ -553,27 +573,24 @@ wedotv Movies HD
 亚洲旅游HD
 亚洲旅游台
 亚洲电影
+亚洲综合
 亚洲综合HD
 亚洲美食台
 亚洲美食频道
 人间卫视
 人间卫视HD
-仙游电视
-优优宝贝
 优漫卡通
 佛卫慈悲台
-佛山公共
-佛山南海
-佛山综合
-佛山顺德
 信吉电视台
 信吉艺文台HD
 信大电视台
+信大频道
 光影
 全大电视台
 全民热练
 全球大片专区
 全纪实
+八大优
 八大优频道
 八大娱乐台
 八大戏剧台
@@ -582,14 +599,13 @@ wedotv Movies HD
 八大综合台
 八大综艺台
 公共电视
+公视
 公视(HD)
+公视2
 公视儿少台HD
 公视台语台
 公视台语台HD
 公视戏剧
-兰州公共
-兰州文旅
-兰州新闻综合
 兵器科技
 兵团卫视
 内蒙农牧
@@ -599,7 +615,6 @@ wedotv Movies HD
 内蒙古文体娱乐
 内蒙古新闻综合
 内蒙古经济生活
-内蒙古综合
 内蒙少儿
 内蒙文体娱乐
 内蒙新闻综合
@@ -611,12 +626,12 @@ wedotv Movies HD
 农林卫视
 冠军梦想台
 冠军电视台
-冬奥纪实
 冰火频道
 凤凰中文
 凤凰卫视中文台
 凤凰卫视资讯台
 凤凰卫视香港台
+凤凰电影
 凤凰资讯
 凤凰香港
 创世电视
@@ -632,7 +647,6 @@ wedotv Movies HD
 北京体育休闲
 北京卫视
 北京国际
-北京国际频道
 北京影视
 北京文艺
 北京新闻
@@ -641,9 +655,6 @@ wedotv Movies HD
 北京纪实
 北京纪实科教
 北京财经
-北海公共
-北海新闻综合
-北海经济科教
 十方法界
 千禧经典台
 半岛国际新闻台
@@ -651,9 +662,11 @@ wedotv Movies HD
 半岛英语新闻台Al Jazeera English HD
 华数军旅剧场
 华数古装剧场
+华艺中文
 华艺中文台
 华艺台湾台
 华艺台湾台 HD
+华艺影剧
 华艺影剧台
 华藏卫视
 华藏卫视HD
@@ -664,25 +677,12 @@ wedotv Movies HD
 华视新闻资讯HD
 华语剧台
 华语影院专区
-南京信息
-南京十八
 南京十八生活
 南京少儿
-南京影视
-南京教科
 南京教育科技
 南京文旅纪录
 南京新闻综合
-南京电视台
 南国都市4K
-南方卫视
-南方少儿
-南方影视
-南方经济
-南方综艺
-南昌新闻综合
-南昌资讯
-南昌都市
 南桃园公用频道
 南桃园节目总表
 博斯无限二台
@@ -709,17 +709,14 @@ wedotv Movies HD
 原住民族电视HD
 原住民族电视台
 原住民频道
-厦门一套
-厦门三套
-厦门二套
 厦门卫视
 厦门海峡
-厦门移动
 厦门综合
 双子卫视
 发现之旅
 古典音乐台HD
 古装剧场
+台湾戏剧
 台湾戏剧HD
 台湾综合台
 台湾艺术台
@@ -742,22 +739,16 @@ wedotv Movies HD
 吉视生活
 吉视综艺文化
 吉视都市
-吴江新闻综合
-呼和浩特影视
-呼和浩特综合
-呼和浩特都市
-咪咕综合体育
-咪咕足球
 哈哈炫动
 哈萨克语新闻综合
 哈萨克语综艺
 哒啵电竞
 哒啵赛事
+唯心电视
 唯心电视HD
 唯心电视台
 喜剧影院
 嘉佳卡通
-四大名著剧场
 四川乡村
 四川卫视
 四川妇女儿童
@@ -781,9 +772,12 @@ wedotv Movies HD
 壹电视电影台
 壹电视电影台HD
 壹电视综合 HD
+壹电视综合台
 壹电视资讯综合台
+多彩文体
 大台中生活频道
 大湾区卫视
+大爱一台
 大爱二台
 大爱二台HD
 大爱电视
@@ -800,7 +794,6 @@ wedotv Movies HD
 天映马来西亚
 天津体育
 天津卫视
-天津少儿
 天津影视
 天津教育
 天津文艺
@@ -810,11 +803,6 @@ wedotv Movies HD
 天美丽电视台
 天良综合台
 天良综合台 HD
-太原影视
-太原教育
-太原文体
-太原新闻综合
-太原百姓
 央视台球
 央视文化精品
 央视精品
@@ -828,12 +816,9 @@ wedotv Movies HD
 好莱坞电影台
 威达超舜生活台
 娱乐新闻台
-孝感新闻综合
-孝感生活
 宁夏公共
 宁夏卫视
 宁夏少儿
-宁夏教育
 宁夏文旅
 宁夏经济
 安多卫视
@@ -842,19 +827,11 @@ wedotv Movies HD
 安徽卫视
 安徽广播电视台国际频道
 安徽影视
-安徽科教
 安徽经济生活
-安徽经视
-安徽综艺
 安徽综艺体育
-宜宾新闻综合
-宜昌旅游生活
-宜昌综合
-宜春新闻综合
 宝宝动画专区
 宝岛文化台
 宠物频道
-客家生活
 客家电视HD
 客家电视台
 家庭剧场
@@ -863,10 +840,12 @@ wedotv Movies HD
 富立电视台
 富立电视台HD
 寰宇HD综合
+寰宇新闻
 寰宇新闻HD
 寰宇新闻台
 寰宇新闻台湾台
 寰宇新闻台湾台HD
+寰宇财经
 寰宇财经HD
 小公视
 小尼克频道
@@ -887,18 +866,16 @@ wedotv Movies HD
 山东生活
 山东综艺
 山东齐鲁
-山西公共
 山西卫视
 山西影视
 山西文体生活
 山西社会与法治
-山西经济
 山西经济与科技
 岭南戏曲
 峨嵋电影
 峨眉电影
-常州新闻
 常州综合
+年代MUCH
 年代MUCH TV
 年代大剧
 年代新闻台
@@ -918,7 +895,6 @@ wedotv Movies HD
 广东经济科教
 广东综艺
 广州新闻
-广州竞赛
 广州综合
 广西卫视
 广西国际
@@ -928,21 +904,18 @@ wedotv Movies HD
 广西综艺旅游
 广西都市
 康巴卫视
-延边1台
-延边2台
 延边卫视
 彩虹e台
 彩虹电影台
 彩虹频道
 彭博财经台
 彰化生活台
+影迷数位电影
 影迷数位电影台
 影迷数位电影台HD
+影迷数位纪实
 影迷数位纪实台
 影迷数位纪实台HD
-徐州文艺影视
-徐州新闻综合
-徐州经济生活
 德国之声
 快乐垂钓
 怀旧剧场
@@ -959,21 +932,15 @@ wedotv Movies HD
 成都经济资讯
 成都都市生活
 户外频道
-揭阳生活
-揭阳综合
-攀枝花新闻综合
 文物宝库
 新动漫
 新天地民俗台
 新天地民俗台 HD
-新片放映厅
 新疆体育
 新疆卫视
 新疆哈语
 新疆少儿
 新疆汉语
-新疆汉语影视
-新疆汉语综艺
 新疆维语
 新视觉
 旅游卫视
@@ -981,42 +948,34 @@ wedotv Movies HD
 无线卫星新闻台
 无线新闻
 无线新闻台
-无锡娱乐
 无锡新闻综合
-无锡生活
 无锡电视娱乐
 无锡电视生活
 无锡电视经济
-无锡经济
 无锡都市资讯
-日照科教
 早期教育
 时尚运动X
 明星大片
 明珠台
-星光影院
 星光院线专区
 星影
 星空卫视
-星空购物
+智林体育
 智林体育HD
 智林体育台
 曼联电视频道
+曼迪日本
 曼迪日本台HD
 杭州导视
 杭州影视
-杭州房产
-杭州文化
 杭州生活
 杭州综合
-杭州西湖明珠
 杭州青少体育
 松视1台
 松视2台
 松视3台
 松视4台
 柳州新闻综合
-梅州-1
 梅迪奇艺术
 梨园
 梨园频道
@@ -1024,7 +983,6 @@ wedotv Movies HD
 欢笑剧场
 欢笑剧场4K
 欧美电影
-歌手2024
 正德电视台
 正德电视台HD
 武侠剧场
@@ -1032,11 +990,10 @@ wedotv Movies HD
 武汉外语
 武汉少儿
 武汉教育
-武汉文体
 武汉新闻综合
 武汉电视剧
-武汉科技生活
 武汉经济
+武汉都市文体
 民视
 民视HD
 民视台湾台
@@ -1060,11 +1017,7 @@ wedotv Movies HD
 汉语综艺
 汕头新闻综合
 汕头经济生活
-汕头综合
-汕尾文化生活
-汕尾新闻综合
 江苏休闲体育
-江苏优漫卡通
 江苏体育休闲
 江苏卫视
 江苏国际
@@ -1079,15 +1032,11 @@ wedotv Movies HD
 江西卫视
 江西少儿
 江西新闻
-江西移动
 江西经济
 江西经济生活
 江西都市
-江门综合
 汽摩
 河北三农
-河北公共
-河北农民
 河北卫视
 河北少儿
 河北少儿科教
@@ -1103,26 +1052,19 @@ wedotv Movies HD
 河南卫视
 河南新农村
 河南新闻
-河南梨园
 河南民生
 河南法制
 河南法治
 河南电视剧
 河南都市
-河源公共
 法治天地
 测试频道
-浙江NEWS
 浙江公共新闻
 浙江卫视
 浙江国际
 浙江少儿
-浙江影视
 浙江教科影视
-浙江教育
-浙江数码时代
 浙江新闻
-浙江民生
 浙江民生休闲
 浙江电视台国际频道
 浙江科教影视
@@ -1152,10 +1094,7 @@ wedotv Movies HD
 深圳电视剧
 深圳移动
 深圳财经
-深圳财经生活
 深圳都市
-深视体育健康
-清远新闻综合
 港台电视31
 港台电视32
 港台电视33
@@ -1173,7 +1112,6 @@ wedotv Movies HD
 湖北经视
 湖北综合
 湖南卫视
-湖南卫视国际
 湖南国际
 湖南娱乐
 湖南爱晚
@@ -1182,24 +1120,12 @@ wedotv Movies HD
 湖南电视台国际频道
 湖南经视
 湖南都市
-湛江公共
-湛江综合
 滚动力 rollor
 滚动力rollor
-滨州综合
-漳州新闻
 潘朵啦高画质玩美台
 潘朵啦高画质粉红台
 潮妈辣婆
-潮安综合
-潮州民生
-潮州综合
-澳视体育
-澳视卫星
 澳视澳门
-澳视综艺
-澳视葡文
-澳视资讯
 炫舞未来
 热播剧场
 热播剧场专区
@@ -1207,13 +1133,18 @@ wedotv Movies HD
 烽烟剧场
 熊猫 TV
 爱上4K
+爱尔达体育1
 爱尔达体育1台
+爱尔达体育2
 爱尔达体育2台
+爱尔达体育3
 爱尔达体育3台
 爱尔达体育4台
 爱尔达娱乐台
+爱尔达影剧
 爱尔达影剧台HD
 爱尔达生活旅游台
+爱尔达综合
 爱尔达综合台HD
 爱情喜剧
 爱看导视
@@ -1223,12 +1154,7 @@ wedotv Movies HD
 环球旅游
 环球经典
 现代女性
-现代教育
 珠江频道
-珠海-1
-珠海-2
-珠海新闻
-珠海生活
 甘肃公共
 甘肃公共应急
 甘肃卫视
@@ -1236,7 +1162,6 @@ wedotv Movies HD
 甘肃文化
 甘肃文化影视
 甘肃科教
-生态环境
 生活时尚
 电影原声台CMusic
 电视指南
@@ -1248,15 +1173,7 @@ wedotv Movies HD
 睛彩广场舞
 睛彩竞技
 睛彩篮球
-睛彩羽毛球
 睛彩青少
-石家庄娱乐
-石家庄新闻综合
-石家庄生活
-石家庄都市
-福州1-新闻
-福州2套-影视
-福州3-生活
 福建体育
 福建公共
 福建少儿
@@ -1268,10 +1185,8 @@ wedotv Movies HD
 福建电视剧
 福建经济
 福建综合
-移动戏曲
 第一剧场
 第一财经
-篮球
 粤语片台
 精品体育
 精品大剧
@@ -1281,12 +1196,12 @@ wedotv Movies HD
 精选动漫台
 红色影院
 红豆电视台
-纪实科教
 纬来体育台
 纬来戏剧台
 纬来日本台
 纬来电影台
 纬来精彩台
+纬来精采
 纬来精采HD
 纬来综合台
 纬来育乐台
@@ -1295,16 +1210,13 @@ wedotv Movies HD
 绍兴公共频道
 绍兴文化影视
 绍兴新闻综合
-经典剧场
 经典卡通台
 经典电影
 经典电影专区
 经典电影台
-经济科教
 维吾尔语影视
 维吾尔语新闻综合
 维吾尔语经济生活
-绵阳影视科技
 综合体育
 罪案 + 侦缉
 罪案侦缉频道
@@ -1313,47 +1225,35 @@ wedotv Movies HD
 美亚电影
 美亚电影HD
 美亚电影台
+美亚高清电影台
 美好1台HD
 美好2台
+美食星球
 美食星球HD
 翡翠台
 老故事
-肇庆新闻
-肇庆生活服务
 苏州文化生活
-苏州文化生活-苏州新闻综合-苏州生活资讯-苏州社会经济
 苏州新闻综合
 苏州生活资讯
 苏州社会经济
-茂名公共
-茂名综合
-茶
 茶频道
-莆田一套
-莆田二套
 萌宠TV
 蒙语卫视
 藏语卫视
-西宁生活
-西宁综合
 西安丝路
 西安商务资讯
-西安商务资迅
 西安影视
 西安新闻综合
-西安移动电视
 西安都市
 西湖明珠
 西藏卫视
 西藏影视文化
-西藏藏语卫视
 视纳华仁纪实台HD
 视纳华仁纪实频道
 证券资讯
 诚心电视台
 谍战剧场专区
 谍战大剧
-象视界
 财富天下
 贵州公共
 贵州卫视
@@ -1365,7 +1265,6 @@ wedotv Movies HD
 贵州生态
 贵州科教
 贵州科教健康
-贵阳综合
 超级体育
 超级电影
 超级电视剧
@@ -1387,30 +1286,20 @@ wedotv Movies HD
 辽宁青少
 达文西频道
 达文西频道HD
+运通财经
 运通财经综合台
-追剧少女
-郑州商都
-郑州妇女
-郑州戏曲
-郑州文体
-郑州新闻
-郑州生活
 都市剧场
+采昌影剧
 采昌影剧台
 采昌影剧台HD
 重庆党员教育
-重庆农村
 重庆卫视
-重庆国际
-重庆娱乐
 重庆少儿
 重庆影视
 重庆影视剧
 重庆文体娱乐
 重庆新农村
 重庆新闻
-重庆时尚生活
-重庆生活资讯
 重庆社会与法
 重庆移动
 重庆红叶
@@ -1421,44 +1310,17 @@ wedotv Movies HD
 金色学堂
 金鹰卡通
 金鹰纪实
-钱江
 钱江都市
-银川公共
-银川文体
-银川生活
 镜电视新闻台
-长春市民
-长春文旅体育
-长春汽车
-长春经济
-长春综合
-长沙影视
-长沙政法
-阳江-1
-阳江-2
-阳江1
-阳江2
-陕西一套
-陕西七套
-陕西三套
-陕西二套
-陕西五套
 陕西体育
 陕西体育休闲
-陕西八套
-陕西六套
-陕西农林卫视
 陕西卫视
-陕西四套
-陕西影视
 陕西新闻
 陕西新闻资讯
 陕西秦腔
 陕西都市
 陕西都市青春
 陕西银龄
-随州农村
-随州综合
 霹雳台湾台
 青岛影视
 青岛教育
@@ -1473,6 +1335,7 @@ wedotv Movies HD
 青海都市
 靖天卡通台
 靖天卡通台 HD
+靖天国际
 靖天戏剧HD
 靖天戏剧台
 靖天日本HD
@@ -1495,12 +1358,10 @@ wedotv Movies HD
 靖洋戏剧台
 非凡商业台
 非凡新闻台
-鞍山新闻综合
 韩国娱乐台 KMTV
 韩国娱乐台KMTV
 韩国娱乐台KMTV HD
 韩国阿里郎
-韶关新闻
 频道总表
 风云剧场
 风云足球
@@ -1509,6 +1370,7 @@ wedotv Movies HD
 香蕉台
 高尔夫网球
 高点电视台
+高点综合台
 高点育乐台
 魅力时尚
 魅力时尚专区
@@ -1525,13 +1387,19 @@ wedotv Movies HD
 黑龙江少儿
 黑龙江影视
 黑龙江文体
-黑龙江新闻法制
 黑龙江新闻法治
 黑龙江都市
+龙华偶像
 龙华偶像HD
+龙华动画
 龙华动画HD
+龙华影剧
 龙华影剧HD
+龙华戏剧
 龙华戏剧HD
+龙华洋片
 龙华洋片HD
+龙华电影
 龙华电影HD
+龙华经典
 龙华经典HD
